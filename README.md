@@ -1,4 +1,3 @@
-<body style="background-color: #e0f7fa;">
 <p  width="48%" align="right">
   <sub><i>✨ Esta página se actualiza dinámicamente con GitHub
 Action y utiliza i18n para el lenguaje</i></sub>
@@ -111,6 +110,5 @@ También me gusta explorar y aprender sobre el espacio, agujeros negros, física
 <sub><i>Haz clic en el globo para cambiar el idioma</i></sub>
 
 <div align="right">
-<sub><i>Última actualización: <b>9/12/2025</b></i></sub>
+<sub><i>Última actualización: <b>14/1/2026</b></i></sub>
 </div>
-</body>
