@@ -1,6 +1,6 @@
 <p  width="48%" align="right">
-  <sub><i>✨ Esta página se actualiza dinámicamente con GitHub
-Action y utiliza i18n para el lenguaje</i></sub>
+  <sub><i>✨ This page updates dynamically with GitHub
+Action and use i18n to the language</i></sub>
 </p>
 <br clear="both"/>
 
@@ -31,40 +31,40 @@ Action y utiliza i18n para el lenguaje</i></sub>
 <br>
 
 <p>
-Hola, soy <b>Denis</b> un desarrollador de software entusiasta y ambicioso. Me especializo en Desarrollo Web, React JavaScript y Diseño. Me encanta hacer contactos, aprender, enseñar, resolver problemas y me considero un entusiasta de la automatización.
+Hi, I am <b>Denis</b> an enthusiastic and ambitious software developer. I specialise in Web Development, React JavaScript and Design. I love to network, to learn, to teach, to solve problems and a consider an automation enthusiast.
 
-Me encanta enfrentar desafíos complejos, construir soluciones escalables y compartir conocimientos con los demás.
+I love tackling complex challenges, building scalable solution, and sharing knowledge with someone else.
 
-También me gusta explorar y aprender sobre el espacio, agujeros negros, física, cuántica y cualquier cosa interesante.
+Also a like to exploring and learn about the space, black holes, fisic, quantyc and any interesting things.
 </p>
 
 <div>
 <details>
-  <summary> Más sobre mí </summary>
+  <summary> More about me </summary>
 
-- Actualmente estoy en un viaje para construir **grandes** cosas.
+- I'm currently on a journey to build **great** things.
 
-- Actualmente estoy aprendiendo **todo**
+- I'm currently learning **everything**
 
-- También creé un canal de discord, además de una página de documentación para ayudar a los coders de Riwi a entender fundamentos de programación en [noLearn](https://nolearn-dev.web.app/)
+- I also created a discord channel, addicionally of that a documentation page to help Riwi's coders understanding programming fundamentals at [noLearn](https://nolearn-dev.web.app/)
 
-- Toda mi experiencia en programación está disponible en [Linkedin](https://www.linkedin.com/in/denisanchez/)
+- All of my programming experience are available at [Linkedin](https://www.linkedin.com/in/denisanchez/)
 
-- Contáctame en **contact.denis.sanchez@gmail.com**
+- Reach me out at **contact.denis.sanchez@gmail.com**
 
 </details>
   
 </p>
 
 
-## 🔥 Estadísticas de GitHub
+## 🔥 Github Stats
 
 <img align="right" width="41%" src="./assets/img/b4beb746b9ee616660a2f247dbfb5288.jpg" />
   <a href="https://github.com/DenisV2112"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=DenisV2112&theme=dark&date_format=M%20j%5B,%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
   <a href="https://github.com/DenisV2112"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=DenisV2112&theme=dark&sideNums=ff3068"></a>
   <a href="https://github.com/DenisV2112"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisV2112&layout=compact&theme=dark"></a>
 
-## Estadísticas de CodeWars
+## CodeWars Stats
   
 
 <a href="https://www.codewars.com/users/DenisV2103">
@@ -76,7 +76,7 @@ También me gusta explorar y aprender sobre el espacio, agujeros negros, física
 
 <br clear="both"/>
 
-## ⚡ Conocimientos
+## ⚡ Sofware Skills
 **Languages:**<br>
 <img src="https://skillicons.dev/icons?i=js,ts,python,php,cs" />
 <br/><br/>
@@ -98,17 +98,17 @@ También me gusta explorar y aprender sobre el espacio, agujeros negros, física
 
 <br clear="both"/>
 
-## Gracias por visitar mi perfil
+## Thanks for visiting my profile
 
-### ⭐ **"La capacidad de aprender es un don; la habilidad de aprender es una destreza; la voluntad de aprender es una elección." - Brian Herbert**
+### ⭐ **"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice." - Brian Herbert**
 
 
 <a width="48%" href="https://custom-github-overview.vercel.app/docs/selector.html" alt="Change language">
   <img  align="left" width="22px" src="https://img.icons8.com/color/48/000000/globe.png"/>
-  <b>Español</b>
+  <b>English</b>
 <br/></a>
-<sub><i>Haz clic en el globo para cambiar el idioma</i></sub>
+<sub><i>Click the globe to change language</i></sub>
 
 <div align="right">
-<sub><i>Última actualización: <b>27/2/2026</b></i></sub>
+<sub><i>Last updated at: <b>2/27/2026</b></i></sub>
 </div>
