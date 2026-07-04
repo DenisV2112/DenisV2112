@@ -110,5 +110,5 @@ También me gusta explorar y aprender sobre el espacio, agujeros negros, física
 <sub><i>Haz clic en el globo para cambiar el idioma</i></sub>
 
 <div align="right">
-<sub><i>Última actualización: <b>3/7/2026</b></i></sub>
+<sub><i>Última actualización: <b>4/7/2026</b></i></sub>
 </div>
